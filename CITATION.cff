@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: If you use this dataset, please cite this version and the source copy.
+title: '瘋人院擊斃華人（《東華報》1928-06-23 第8版，澳洲國家圖書館） / Feng ren yuan ji bi Hua ren [Death
+  of a Chinese Patient at a Mental Institution]: Transcription Dataset'
+type: dataset
+version: 0.1.0
+authors:
+- family-names: Chu
+  given-names: Chen-Yu
+  orcid: https://orcid.org/0009-0003-9738-6914
+repository-code: https://github.com/poplolioi11/trove24098856-goulburn-institutional-case
+keywords:
+- 東華報
+- 瘋人院擊斃華人
+- 精神醫學史
+- 澳洲華文報刊
+- 長期住院與院內安全
+- Tung Wah Times
+- history of psychiatry
+- Chinese Australian newspapers
+- Trove
+- TEI

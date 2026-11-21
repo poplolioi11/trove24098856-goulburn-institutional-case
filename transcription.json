@@ -1,0 +1,112 @@
+{
+  "metadata": {
+    "work_key": "trove24098856",
+    "title": "瘋人院擊斃華人",
+    "edition": "0.1.0",
+    "language": "lzh",
+    "shelfmark": "Tung Wah Times, 1928-06-23, p. 8, NLA news-page24098856",
+    "reading_order": "source columns, ordered as printed",
+    "title_policy": "Stand-alone headings in extras, inline ones in their original column",
+    "version": "0.1.0",
+    "dataset_title": "瘋人院擊斃華人（《東華報》1928-06-23 第8版，澳洲國家圖書館） / Feng ren yuan ji bi Hua ren [Death of a Chinese Patient at a Mental Institution]: Transcription Dataset",
+    "review_status": "initial-transcription",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  },
+  "pages": [
+    {
+      "image": 1,
+      "sides": [
+        {
+          "side": "single",
+          "columns": [
+            {
+              "text": "本月十五號。　本省高爐彬埠消息云"
+            },
+            {
+              "text": "。。有一華人差厘勝。在高爐彬埠瘋"
+            },
+            {
+              "text": "人院多年　於本月十五號入沐浴房"
+            },
+            {
+              "text": "。。忽被同院西人。。用舊掃地器具之"
+            },
+            {
+              "text": "柄擊傷。。未幾即斃命。。查該華人初"
+            },
+            {
+              "text": "入苛倫柏醫院。。一九二十年移住高"
+            },
+            {
+              "text": "爐彬埠瘋人院者。。兇手係同院同病"
+            },
+            {
+              "text": "者。。在該院亦有數年云。"
+            }
+          ],
+          "extras": [
+            {
+              "type": "article-title",
+              "text": "瘋人院擊斃華人",
+              "location": "正文右側大字獨立題頭"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "single",
+          "column": 1,
+          "context": "高爐彬埠",
+          "candidates": [
+            "高爐彬埠",
+            "高壟彬埠"
+          ],
+          "note": "地名多次出現，火旁構件待核。"
+        },
+        {
+          "side": "single",
+          "column": 2,
+          "context": "差厘勝",
+          "candidates": [
+            "差厘勝",
+            "羌厘勝"
+          ],
+          "note": "音譯人名首字較淡，保留候讀。"
+        },
+        {
+          "side": "single",
+          "column": 6,
+          "context": "苛倫柏",
+          "candidates": [
+            "苛倫柏",
+            "苟倫柏",
+            "莒倫柏"
+          ],
+          "note": "院名首個音譯字的構件和口形需回圖。"
+        }
+      ],
+      "observations": "第八版《本洲新聞》中偏左橫段，大字題名及三角分項記號另欄。正文向左八欄，第八欄「云」後空，接另一標題。保留原刊所見單、雙圈與可辨欄內空隙。",
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24098856",
+      "catalogue_page": 8,
+      "image_url": "https://trove.nla.gov.au/ndp/imageservice/nla.news-page24098856/level5",
+      "sha256": "c8e738f2c9aea353b64e533c6e13b813f8cfa91972cdc6347e7c5dc61ddab1de",
+      "label": "1928-06-23 第8版",
+      "dimensions": [
+        2816,
+        3683
+      ],
+      "article_extent": [
+        190,
+        773,
+        631,
+        1223
+      ],
+      "content_role": "complete-article",
+      "state": "transcribed"
+    }
+  ]
+}

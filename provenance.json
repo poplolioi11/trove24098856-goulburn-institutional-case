@@ -1,0 +1,20 @@
+{
+  "historical_author": "無署名（《東華報》）",
+  "source_identity": "Tung Wah Times, 1928-06-23, p. 8, NLA news-page24098856",
+  "source": "https://trove.nla.gov.au/newspaper/page/24098856",
+  "source_image_viewer": "https://trove.nla.gov.au/newspaper/page/24098856",
+  "source_rights_policy": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "dataset_version": "0.1.0",
+  "scan_count": 1,
+  "content_scan_count": 1,
+  "review_status": "initial-transcription",
+  "source_image_inventory": [
+    {
+      "image": 1,
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24098856",
+      "label": "1928-06-23 第8版",
+      "sha256": "c8e738f2c9aea353b64e533c6e13b813f8cfa91972cdc6347e7c5dc61ddab1de",
+      "content_role": "complete-article"
+    }
+  ]
+}
