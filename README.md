@@ -4,11 +4,11 @@
 
 Feng ren yuan ji bi Hua ren [Death of a Chinese Patient at a Mental Institution] appeared in Tung Wah Times (1928-06-23). A contemporary Chinese-language report describes a long-term Chinese resident’s institutional transfer and his death following an incident inside an asylum. It preserves reported dates and institutional names for study of long-term care and institutional safety.
 
-## V0.1.0
+## V0.2.0
 
-完整收錄第8版此篇原題與正文 8 個原欄，全文格式為 TXT、JSON 與 TEI XML。此版固定 AI 輔助初錄，標明未定讀法。尚未經人類全文雙校。
+完整收錄第8版此篇原題與正文 8 個原欄，全文格式為 TXT、JSON 與 TEI XML。比對獨立原圖讀法後回圖裁定，採用 0 筆訂正，留存疑讀定位。
 
-TXT, JSON and TEI XML cover the complete separately headed article, comprising the heading and 8 source columns on page 8. This edition preserves the first AI-assisted transcription and marks uncertainties. It has not been double proofread by human readers.
+TXT, JSON and TEI XML cover the complete separately headed article, comprising the heading and 8 source columns on page 8. An independent image reading was compared with the first transcription. Source-image adjudication adopted 0 changes and retained unresolved readings.
 
 ## 資料與原件 / Data and source
 

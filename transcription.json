@@ -2,14 +2,14 @@
   "metadata": {
     "work_key": "trove24098856",
     "title": "瘋人院擊斃華人",
-    "edition": "0.1.0",
+    "edition": "0.2.0",
     "language": "lzh",
     "shelfmark": "Tung Wah Times, 1928-06-23, p. 8, NLA news-page24098856",
     "reading_order": "source columns, ordered as printed",
     "title_policy": "Stand-alone headings in extras, inline ones in their original column",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "dataset_title": "瘋人院擊斃華人（《東華報》1928-06-23 第8版，澳洲國家圖書館） / Feng ren yuan ji bi Hua ren [Death of a Chinese Patient at a Mental Institution]: Transcription Dataset",
-    "review_status": "initial-transcription",
+    "review_status": "targeted-image-adjudication",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
